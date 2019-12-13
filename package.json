@@ -1,0 +1,13 @@
+{
+  "name": "cra-template-danielpox",
+  "version": "1.0.0",
+  "description": "A test of creating a template for create-react-app 3.0.0+",
+  "main": "template.json",
+  "engines": {
+    "node": ">=8"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
