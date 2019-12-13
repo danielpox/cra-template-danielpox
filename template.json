@@ -1,10 +1,10 @@
 {
   "dependencies": {
     "sweetalert": "2.1.0",
-    "hygen": "5.0.3",
-    "hygen-danielpox": "git+https://[TOKEN]:x-oauth-basic@github.com/danielpox/hygen-danielpox.git"
+    "hygen": "5.0.3"
   },
   "scripts": {
+    "add-hygen-template": "npm i --save git+https://[TOKEN]:x-oauth-basic@github.com/danielpox/hygen-danielpox.git",
     "hygen": "HYGEN_TMPLS='node_modules/hygen-danielpox/_templates' hygen"
   }
 }
