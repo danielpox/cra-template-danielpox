@@ -1,6 +1,6 @@
 {
   "name": "cra-template-danielpox",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A test of creating a template for create-react-app 3.0.0+",
   "main": "template.json",
   "engines": {
